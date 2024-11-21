@@ -1,9 +1,2 @@
-unction(w,d,c,k,a,b,t,e) {
-    var cs = d.currentScript;
-    if (cs) {
-        var uo = cs.getAttribute('data-ueto');
-        if (uo && w[uo] && typeof w[uo].setUserSignals === 'function') {
-            w[uo].setUserSignals({'ea': c, 'kc': k, 'at': a, 'bi': b, 'dt': t, 'ec': e});
-        }
-    }
-})(window, document, false, false, false, false, true, false);
+<!-- saved from url=(1297)https://td.doubleclick.net/td/rul/1007023280?random=1731882096481&cv=11&fst=1731882096481&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45je4bc0v869419081z871779960za200zb71779960&gcd=13l3l3l3l1l1&dma=0&tag_exp=101925629~102067554~102067808~102077855&u_w=1280&u_h=854&url=https%3A%2F%2Fwww.design.com%2Fwebsite-builder%2F1e6b96f3-af24-4f3b-a5a9-3791bfff8197%3FisDraftSaved%3DTrue&ref=https%3A%2F%2Fwww.design.com%2Fwebsite-builder%2F09345cec-126f-4423-be93-d76010fc5e06%2F453f673b-2140-4ae0-b2c4-ca77ee020567&hn=www.googleadservices.com&frm=0&tiba=Travel%20Tourism%20%7C%20Website%20Builder%20%7C%20Build%20a%20Website&userId=202cee6d-ef78-4a62-b6d4-87e5ff96e5f0&ga_uid=G-FFRLYW6TZ1.202cee6d-ef78-4a62-b6d4-87e5ff96e5f0&npa=0&pscdl=noapi&auid=2116648859.1731435408&uaa=x86&uab=64&uafvl=Chromium%3B130.0.6723.117%7CGoogle%2520Chrome%3B130.0.6723.117%7CNot%253FA_Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&fledge=1&data=event%3Dgtag.config%3Bpage%3D%2Fwebsite-builder%2F1e6b96f3-af24-4f3b-a5a9-3791bfff8197%3FisDraftSaved%5C%3DTrue%3Blocation%3Dhttps%3A%2F%2Fwww.design.com%2Fwebsite-builder%2F1e6b96f3-af24-4f3b-a5a9-3791bfff8197%3FisDraftSaved%5C%3DTrue%3Breferrer%3Dhttps%3A%2F%2Fwww.design.com%2Fwebsite-builder%2F09345cec-126f-4423-be93-d76010fc5e06%2F453f673b-2140-4ae0-b2c4-ca77ee020567 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body></body></html>
